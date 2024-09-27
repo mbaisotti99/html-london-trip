@@ -4,6 +4,31 @@
 }
 header{
     text-align: center;
-    margin: 55px;
+    margin: 35px;
     font-size: 44px;
+}
+section{
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+}
+hr{
+    margin: 50px;
+}
+ul, ol{
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+    
+}
+section table{
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    text-align: center;
+    margin: 20px;
+}
+footer img{
+    margin: 80px;
 }
