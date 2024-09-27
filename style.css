@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    margin: 55px;
+    font-size: 44px;
+}
